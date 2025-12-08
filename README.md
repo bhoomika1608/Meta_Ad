@@ -85,4 +85,5 @@ Compares Impressions, Clicks, CTR, Purchase Rate, Conversion Rate, and Engagemen
 https://github.com/bhoomika1608/Meta_Ad/blob/main/Screenshot%202025-12-08%20220146.png
 
 📝 Conclusion
+
 This dashboard acts as a complete performance monitoring and optimization tool for Meta ad campaigns, supporting strategic decisions through clean visualizations, meaningful KPIs, and actionable insights.
